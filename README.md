@@ -43,7 +43,7 @@
 Clone the project
 
 ```bash / zsh
-  git clone https://github.com/shubhojeet1/Data-Visualization-Task.git
+  git clone https://github.com/shubhojeet1/Data-visualization.git
 ```
 
 Go to the project directory
