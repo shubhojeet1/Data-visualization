@@ -38,7 +38,7 @@
  </div>
  
  
- ## Run Locally
+ ## Run Locally.
 
 Clone the project
 
