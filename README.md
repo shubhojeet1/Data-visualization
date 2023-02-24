@@ -27,14 +27,14 @@
  <h4>Barchart</h4>
 <p></p>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px " >
-  <img style="width: 100%;" src="https://i.ibb.co/x3YmkS8/Screenshot-2023-02-23-at-1-58-01-PM.png" alt="">
+  <img style="width: 100%;" src="https://i.ibb.co/TbkSKvP/Screenshot-2023-02-24-at-4-45-46-PM.png" alt="">
  </div>
 
  
  <h4>Full view</h4>
 <p></p>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px " >
-  <img style="width: 100%;" src="https://i.ibb.co/D4xSJDV/Screenshot-2023-02-23-at-1-58-20-PM.png" alt="">
+  <img style="width: 100%;" src="https://i.ibb.co/Pzpt4mV/Screenshot-2023-02-24-at-4-46-59-PM.png" alt="">
  </div>
  
  
