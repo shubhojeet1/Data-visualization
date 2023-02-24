@@ -1,0 +1,59 @@
+.chartRef {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  max-width: calc(50% - 30px);
+  width: 100%;
+  height: 400px;
+  margin: 0px;
+  position: relative;
+}
+
+.chartRef div {
+  position: relative !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 10px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 20px auto;
+}
+.csa{
+  font-size: 30px;
+    color: #a687f5;
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 0px 0px 0 rgb(130, 90, 231),
+                 1px 1px 0 rgb(83, 44, 183),
+                 2px 2px 0 rgb(129,98,208),
+                 3px 3px 0 rgb(116,85,195),
+                 4px 4px 0 rgb(104,73,183),
+                 5px 5px  0 rgb(92,61,171),
+                 6px 6px 5px rgba(0,0,0,0.44),
+                 6px 6px 1px rgba(0,0,0,0.5),
+                 0px 0px 5px rgba(0,0,0,.2);
+ }
+
+ canvas {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+ /* Media Queries */
+@media only screen and (max-width: 980px) {
+  .chartRef {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .chartRef {
+    height: 250px;
+  }
+}
